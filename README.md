@@ -1,4 +1,5 @@
 # Movie-Recommender-System
 Movie Recommender System to provide personalized suggestions. 
 Leveraging data analysis and machine learning algorithms to provide personalized suggestions.
-/n This ongoing project is enhancing my ability to work with datasets, implement algorithms, and refine user-centric solutions.
+
+This ongoing project is enhancing my ability to work with datasets, implement algorithms, and refine user-centric solutions.
